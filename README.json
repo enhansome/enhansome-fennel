@@ -1,0 +1,201 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Why Fennel?",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fennel",
+            "last_commit": "2023-11-05T19:09:50Z",
+            "owner": "nyoom-engineering",
+            "repo": "nyoom.nvim",
+            "stars": 1624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neovim Plugin Development introduction articles by Laurence Chen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-05-19T01:06:10Z",
+            "owner": "humorless",
+            "repo": "fennel-fp-neovim",
+            "stars": 181
+          }
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fnx",
+          "description": "A package manager for the Fennel language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fennel",
+            "last_commit": "2022-04-03T15:13:49Z",
+            "owner": "gbaptista",
+            "repo": "fnx",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LilyPad",
+          "description": "helper tool to assist with using the Fennel programming language in Roblox Studio.",
+          "children": []
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aniseed",
+          "description": "Sweeter Neovim with Fennel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fennel",
+            "last_commit": "2025-06-12T08:33:34Z",
+            "owner": "Olical",
+            "repo": "aniseed",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hotpot.nvim",
+          "description": "Fennel compiler plugin for Neovim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fennel",
+            "last_commit": "2026-07-29T15:44:23Z",
+            "owner": "rktjmp",
+            "repo": "hotpot.nvim",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nfnl",
+          "description": "Enhance your Neovim with Fennel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fennel",
+            "last_commit": "2026-04-13T16:15:01Z",
+            "owner": "Olical",
+            "repo": "nfnl",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tangerine.nvim",
+          "description": "Sweet Fennel integration for Neovim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fennel",
+            "last_commit": "2024-10-18T17:26:31Z",
+            "owner": "udayvir-singh",
+            "repo": "tangerine.nvim",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvim-parinfer",
+          "description": "parinfer for Neovim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fennel",
+            "last_commit": "2025-10-01T13:28:10Z",
+            "owner": "gpanders",
+            "repo": "nvim-parinfer",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gpanders/fennel-repl.nvim",
+          "description": "Fennel REPL that runs in Neovim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fennel",
+            "last_commit": "2023-12-26T16:27:14Z",
+            "owner": "gpanders",
+            "repo": "fennel-repl.nvim",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Neovim"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Loria - Minetest subgame",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fennel",
+            "last_commit": "2026-05-23T10:29:49Z",
+            "owner": "rzrn",
+            "repo": "loria",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GodotFennelReversi - Reversi game made with Godot 4.6 and Fennel language",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-02T14:05:43Z",
+            "owner": "ffunatsu",
+            "repo": "GodotFennelReversi",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Games"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:42:48.724Z",
+    "original_repository": "adelarsq/awesome-fennel",
+    "original_repository_sha": "56a0f8d850b66e3fbe5c04722502556f4dbfb9c6",
+    "enhanced_repository": "enhansome/enhansome-fennel",
+    "enhanced_repository_description": null,
+    "title": "Awesome fennel with stars"
+  }
+}
