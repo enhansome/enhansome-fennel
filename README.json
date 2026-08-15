@@ -14,7 +14,7 @@
             "last_commit": "2023-11-05T19:09:50Z",
             "owner": "nyoom-engineering",
             "repo": "nyoom.nvim",
-            "stars": 1624
+            "stars": 1625
           }
         },
         {
@@ -104,7 +104,7 @@
           "repo_info": {
             "archived": false,
             "language": "Fennel",
-            "last_commit": "2026-04-13T16:15:01Z",
+            "last_commit": "2026-08-14T13:11:37Z",
             "owner": "Olical",
             "repo": "nfnl",
             "stars": 359
@@ -191,7 +191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:37:18.685Z",
+    "last_updated": "2026-08-15T07:43:11.232Z",
     "original_repository": "adelarsq/awesome-fennel",
     "original_repository_sha": "56a0f8d850b66e3fbe5c04722502556f4dbfb9c6",
     "enhanced_repository": "enhansome/enhansome-fennel",
