@@ -107,7 +107,7 @@
             "last_commit": "2026-08-14T13:11:37Z",
             "owner": "Olical",
             "repo": "nfnl",
-            "stars": 359
+            "stars": 360
           }
         },
         {
@@ -191,7 +191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:59:40.354Z",
+    "last_updated": "2026-08-18T07:52:49.779Z",
     "original_repository": "adelarsq/awesome-fennel",
     "original_repository_sha": "56a0f8d850b66e3fbe5c04722502556f4dbfb9c6",
     "enhanced_repository": "enhansome/enhansome-fennel",

@@ -44,7 +44,7 @@
 
 * [aniseed](https://github.com/Olical/aniseed) ⭐ 645 | 🐛 7 | 🌐 Fennel | 📅 2025-06-12 - Sweeter Neovim with Fennel
 * [hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) ⭐ 400 | 🐛 0 | 🌐 Fennel | 📅 2026-07-29 - Fennel compiler plugin for Neovim
-* [nfnl](https://github.com/Olical/nfnl) ⭐ 359 | 🐛 8 | 🌐 Fennel | 📅 2026-08-14 - Enhance your Neovim with Fennel
+* [nfnl](https://github.com/Olical/nfnl) ⭐ 360 | 🐛 8 | 🌐 Fennel | 📅 2026-08-14 - Enhance your Neovim with Fennel
 * [tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) ⭐ 225 | 🐛 9 | 🌐 Fennel | 📅 2024-10-18 - Sweet Fennel integration for Neovim
 * [nvim-parinfer](https://github.com/gpanders/nvim-parinfer) ⭐ 223 | 🐛 3 | 🌐 Fennel | 📅 2025-10-01 - parinfer for Neovim
 * [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) ⭐ 26 | 🐛 0 | 🌐 Fennel | 📅 2023-12-26 - Fennel REPL that runs in Neovim
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
