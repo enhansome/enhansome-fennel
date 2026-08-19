@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435594662,
             "language": "Fennel",
             "last_commit": "2023-11-05T19:09:50Z",
             "owner": "nyoom-engineering",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1068419829,
             "language": "Clojure",
             "last_commit": "2026-05-19T01:06:10Z",
             "owner": "humorless",
@@ -35,7 +37,7 @@
       "title": "Articles"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,119 +46,122 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435192656,
             "language": "Fennel",
             "last_commit": "2022-04-03T15:13:49Z",
             "owner": "gbaptista",
             "repo": "fnx",
             "stars": 31
           }
-        },
-        {
-          "node_type": "item",
-          "title": "LilyPad",
-          "description": "helper tool to assist with using the Fennel programming language in Roblox Studio.",
-          "children": []
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aniseed",
+              "description": "Sweeter Neovim with Fennel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221086097,
+                "language": "Fennel",
+                "last_commit": "2025-06-12T08:33:34Z",
+                "owner": "Olical",
+                "repo": "aniseed",
+                "stars": 645
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hotpot.nvim",
+              "description": "Fennel compiler plugin for Neovim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387980350,
+                "language": "Fennel",
+                "last_commit": "2026-07-29T15:44:23Z",
+                "owner": "rktjmp",
+                "repo": "hotpot.nvim",
+                "stars": 400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nfnl",
+              "description": "Enhance your Neovim with Fennel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661685396,
+                "language": "Fennel",
+                "last_commit": "2026-08-14T13:11:37Z",
+                "owner": "Olical",
+                "repo": "nfnl",
+                "stars": 360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tangerine.nvim",
+              "description": "Sweet Fennel integration for Neovim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 447520296,
+                "language": "Fennel",
+                "last_commit": "2024-10-18T17:26:31Z",
+                "owner": "udayvir-singh",
+                "repo": "tangerine.nvim",
+                "stars": 225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nvim-parinfer",
+              "description": "parinfer for Neovim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400031005,
+                "language": "Fennel",
+                "last_commit": "2025-10-01T13:28:10Z",
+                "owner": "gpanders",
+                "repo": "nvim-parinfer",
+                "stars": 224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gpanders/fennel-repl.nvim",
+              "description": "Fennel REPL that runs in Neovim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 418696562,
+                "language": "Fennel",
+                "last_commit": "2023-12-26T16:27:14Z",
+                "owner": "gpanders",
+                "repo": "fennel-repl.nvim",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Neovim"
+        }
+      ],
       "title": "Plugins"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "aniseed",
-          "description": "Sweeter Neovim with Fennel",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fennel",
-            "last_commit": "2025-06-12T08:33:34Z",
-            "owner": "Olical",
-            "repo": "aniseed",
-            "stars": 645
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hotpot.nvim",
-          "description": "Fennel compiler plugin for Neovim",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fennel",
-            "last_commit": "2026-07-29T15:44:23Z",
-            "owner": "rktjmp",
-            "repo": "hotpot.nvim",
-            "stars": 400
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nfnl",
-          "description": "Enhance your Neovim with Fennel",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fennel",
-            "last_commit": "2026-08-14T13:11:37Z",
-            "owner": "Olical",
-            "repo": "nfnl",
-            "stars": 360
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tangerine.nvim",
-          "description": "Sweet Fennel integration for Neovim",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fennel",
-            "last_commit": "2024-10-18T17:26:31Z",
-            "owner": "udayvir-singh",
-            "repo": "tangerine.nvim",
-            "stars": 225
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nvim-parinfer",
-          "description": "parinfer for Neovim",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fennel",
-            "last_commit": "2025-10-01T13:28:10Z",
-            "owner": "gpanders",
-            "repo": "nvim-parinfer",
-            "stars": 223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gpanders/fennel-repl.nvim",
-          "description": "Fennel REPL that runs in Neovim",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Fennel",
-            "last_commit": "2023-12-26T16:27:14Z",
-            "owner": "gpanders",
-            "repo": "fennel-repl.nvim",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Neovim"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -165,6 +170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189712984,
             "language": "Fennel",
             "last_commit": "2026-05-23T10:29:49Z",
             "owner": "rzrn",
@@ -179,6 +185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1212920816,
             "language": "Lua",
             "last_commit": "2026-06-02T14:05:43Z",
             "owner": "ffunatsu",
@@ -191,7 +198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:52:49.779Z",
+    "last_updated": "2026-08-19T07:53:46.958Z",
     "original_repository": "adelarsq/awesome-fennel",
     "original_repository_sha": "56a0f8d850b66e3fbe5c04722502556f4dbfb9c6",
     "enhanced_repository": "enhansome/enhansome-fennel",
