@@ -104,7 +104,7 @@
                 "last_commit": "2026-08-14T13:11:37Z",
                 "owner": "Olical",
                 "repo": "nfnl",
-                "stars": 360
+                "stars": 361
               }
             },
             {
@@ -134,7 +134,7 @@
                 "last_commit": "2025-10-01T13:28:10Z",
                 "owner": "gpanders",
                 "repo": "nvim-parinfer",
-                "stars": 224
+                "stars": 223
               }
             },
             {
@@ -198,7 +198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:44:54.552Z",
+    "last_updated": "2026-08-23T07:46:16.295Z",
     "original_repository": "adelarsq/awesome-fennel",
     "original_repository_id": 668288738,
     "original_repository_sha": "56a0f8d850b66e3fbe5c04722502556f4dbfb9c6",
