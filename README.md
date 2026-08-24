@@ -17,7 +17,7 @@
 
 ## Articles
 
-* [Why Fennel?](https://github.com/nyoom-engineering/nyoom.nvim/blob/main/docs/faq.md#why-fennel) ⭐ 1,626 | 🐛 30 | 🌐 Fennel | 📅 2023-11-05
+* [Why Fennel?](https://github.com/nyoom-engineering/nyoom.nvim/blob/main/docs/faq.md#why-fennel) ⭐ 1,627 | 🐛 30 | 🌐 Fennel | 📅 2023-11-05
 * [Neovim Plugin Development introduction articles by Laurence Chen](https://github.com/humorless/fennel-fp-neovim) ⭐ 181 | 🐛 1 | 🌐 Clojure | 📅 2026-05-19
 * [How to write an awesome-wm config with Fennel](https://gist.github.com/christoph-frick/d3949076ffc8d23e9350d3ea3b6e00cb)
 * [Enhance your Neovim with Fennel](https://russtoku.github.io/posts/nfnl-experience.html)
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
