@@ -156,6 +156,28 @@
           "description": null,
           "node_type": "group",
           "title": "Neovim"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sublime-text-fennel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287824872,
+                "language": "Fennel",
+                "last_commit": "2023-05-18T00:36:16Z",
+                "owner": "gbaptista",
+                "repo": "sublime-text-fennel",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sublime"
         }
       ],
       "title": "Plugins"
@@ -198,7 +220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:03:52.186Z",
+    "last_updated": "2026-08-24T14:48:27.442Z",
     "original_repository": "adelarsq/awesome-fennel",
     "original_repository_id": 668288738,
     "original_repository_sha": "56a0f8d850b66e3fbe5c04722502556f4dbfb9c6",
