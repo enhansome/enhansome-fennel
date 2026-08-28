@@ -15,8 +15,9 @@
             "last_commit": "2023-11-05T19:09:50Z",
             "owner": "nyoom-engineering",
             "repo": "nyoom.nvim",
-            "stars": 1628
-          }
+            "stars": 1629
+          },
+          "first_seen": "2026-08-28T19:25:43.098Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "humorless",
             "repo": "fennel-fp-neovim",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T19:25:43.098Z"
         }
       ],
       "title": "Articles"
@@ -52,7 +54,8 @@
             "owner": "gbaptista",
             "repo": "fnx",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T19:25:43.098Z"
         }
       ],
       "title": "Tools"
@@ -75,7 +78,8 @@
                 "owner": "Olical",
                 "repo": "aniseed",
                 "stars": 645
-              }
+              },
+              "first_seen": "2026-08-28T19:25:43.098Z"
             },
             {
               "node_type": "item",
@@ -90,7 +94,8 @@
                 "owner": "rktjmp",
                 "repo": "hotpot.nvim",
                 "stars": 400
-              }
+              },
+              "first_seen": "2026-08-28T19:25:43.098Z"
             },
             {
               "node_type": "item",
@@ -105,7 +110,8 @@
                 "owner": "Olical",
                 "repo": "nfnl",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T19:25:43.098Z"
             },
             {
               "node_type": "item",
@@ -120,7 +126,8 @@
                 "owner": "udayvir-singh",
                 "repo": "tangerine.nvim",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-28T19:25:43.098Z"
             },
             {
               "node_type": "item",
@@ -135,7 +142,8 @@
                 "owner": "gpanders",
                 "repo": "nvim-parinfer",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-28T19:25:43.098Z"
             },
             {
               "node_type": "item",
@@ -150,7 +158,8 @@
                 "owner": "gpanders",
                 "repo": "fennel-repl.nvim",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T19:25:43.098Z"
             }
           ],
           "description": null,
@@ -172,7 +181,8 @@
                 "owner": "gbaptista",
                 "repo": "sublime-text-fennel",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T19:25:43.098Z"
             }
           ],
           "description": null,
@@ -198,7 +208,8 @@
             "owner": "rzrn",
             "repo": "loria",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T19:25:43.098Z"
         },
         {
           "node_type": "item",
@@ -213,14 +224,15 @@
             "owner": "ffunatsu",
             "repo": "GodotFennelReversi",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:25:43.098Z"
         }
       ],
       "title": "Games"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:16:52.147Z",
+    "last_updated": "2026-08-28T19:25:43.098Z",
     "original_repository_info": {
       "archived": false,
       "id": 668288738,
