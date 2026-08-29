@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme",
+            "homepage": null,
             "id": 435594662,
             "language": "Fennel",
+            "license": "MIT",
             "last_commit": "2023-11-05T19:09:50Z",
+            "open_issues": 30,
             "owner": "nyoom-engineering",
             "repo": "nyoom.nvim",
-            "stars": 1629
+            "stars": 1629,
+            "topics": [
+              "dotfiles",
+              "lua",
+              "neovim-colorscheme",
+              "neovim-conf",
+              "neovim-configuration",
+              "neovim-dotfiles",
+              "neovim-lua",
+              "neovim-setup",
+              "rice",
+              "ricing",
+              "rust",
+              "vim",
+              "vimrc"
+            ]
           },
           "first_seen": "2026-08-28T19:25:43.098Z"
         },
@@ -26,12 +45,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A series of articles exploring Fennel and Functional Programming in Neovim",
+            "homepage": null,
             "id": 1068419829,
             "language": "Clojure",
+            "license": null,
             "last_commit": "2026-05-19T01:06:10Z",
+            "open_issues": 1,
             "owner": "humorless",
             "repo": "fennel-fp-neovim",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "fennel-lang",
+              "functional-programming",
+              "lisp",
+              "neovim",
+              "neovim-plugin",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-28T19:25:43.098Z"
         }
@@ -48,12 +79,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package manager for the Fennel language.",
+            "homepage": "https://github.com/gbaptista/fnx",
             "id": 435192656,
             "language": "Fennel",
+            "license": "MIT",
             "last_commit": "2022-04-03T15:13:49Z",
+            "open_issues": 1,
             "owner": "gbaptista",
             "repo": "fnx",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "fennel",
+              "fnx",
+              "package-manager"
+            ]
           },
           "first_seen": "2026-08-28T19:25:43.098Z"
         }
@@ -72,12 +112,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neovim configuration and plugins in Fennel (Lisp compiled to Lua)",
+                "homepage": "https://discord.gg/wXAMr8F",
                 "id": 221086097,
                 "language": "Fennel",
+                "license": "Unlicense",
                 "last_commit": "2025-06-12T08:33:34Z",
+                "open_issues": 7,
                 "owner": "Olical",
                 "repo": "aniseed",
-                "stars": 645
+                "stars": 645,
+                "topics": [
+                  "fennel",
+                  "lisp",
+                  "lua",
+                  "neovim"
+                ]
               },
               "first_seen": "2026-08-28T19:25:43.098Z"
             },
@@ -88,12 +138,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":stew: Carl Weathers #1 Neovim Plugin.",
+                "homepage": null,
                 "id": 387980350,
                 "language": "Fennel",
+                "license": "MIT",
                 "last_commit": "2026-07-29T15:44:23Z",
+                "open_issues": 0,
                 "owner": "rktjmp",
                 "repo": "hotpot.nvim",
-                "stars": 400
+                "stars": 400,
+                "topics": [
+                  "carl-weathers",
+                  "fennel",
+                  "lisp",
+                  "lua",
+                  "neovim",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T19:25:43.098Z"
             },
@@ -104,12 +166,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhance your Neovim with Fennel",
+                "homepage": null,
                 "id": 661685396,
                 "language": "Fennel",
+                "license": "Unlicense",
                 "last_commit": "2026-08-14T13:11:37Z",
+                "open_issues": 8,
                 "owner": "Olical",
                 "repo": "nfnl",
-                "stars": 362
+                "stars": 362,
+                "topics": [
+                  "fennel",
+                  "lua",
+                  "neovim",
+                  "neovim-fennel",
+                  "neovim-plugin",
+                  "nvim",
+                  "nvim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T19:25:43.098Z"
             },
@@ -120,12 +195,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍊 Sweet Fennel integration for Neovim",
+                "homepage": null,
                 "id": 447520296,
                 "language": "Fennel",
+                "license": "MIT",
                 "last_commit": "2024-10-18T17:26:31Z",
+                "open_issues": 9,
                 "owner": "udayvir-singh",
                 "repo": "tangerine.nvim",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "fennel",
+                  "lisp",
+                  "lua",
+                  "neovim",
+                  "neovim-lua",
+                  "neovim-plugin"
+                ]
               },
               "first_seen": "2026-08-28T19:25:43.098Z"
             },
@@ -136,12 +223,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "parinfer for Neovim",
+                "homepage": null,
                 "id": 400031005,
                 "language": "Fennel",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-01T13:28:10Z",
+                "open_issues": 3,
                 "owner": "gpanders",
                 "repo": "nvim-parinfer",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "fennel",
+                  "lisp",
+                  "lua",
+                  "neovim",
+                  "parinfer"
+                ]
               },
               "first_seen": "2026-08-28T19:25:43.098Z"
             },
@@ -152,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Fennel REPL that runs in Neovim",
+                "homepage": null,
                 "id": 418696562,
                 "language": "Fennel",
+                "license": "MIT",
                 "last_commit": "2023-12-26T16:27:14Z",
+                "open_issues": 0,
                 "owner": "gpanders",
                 "repo": "fennel-repl.nvim",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:25:43.098Z"
             }
@@ -175,12 +278,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fennel Language Support for Sublime Text 3 & 4",
+                "homepage": "https://packagecontrol.io/packages/Fennel",
                 "id": 287824872,
                 "language": "Fennel",
+                "license": "MIT",
                 "last_commit": "2023-05-18T00:36:16Z",
+                "open_issues": 6,
                 "owner": "gbaptista",
                 "repo": "sublime-text-fennel",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "fennel",
+                  "lua",
+                  "sublime-text",
+                  "syntax-highlighting"
+                ]
               },
               "first_seen": "2026-08-28T19:25:43.098Z"
             }
@@ -202,12 +315,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minetest subgame",
+            "homepage": null,
             "id": 189712984,
             "language": "Fennel",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-23T10:29:49Z",
+            "open_issues": 3,
             "owner": "rzrn",
             "repo": "loria",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "fennel",
+              "minetest",
+              "minetest-game"
+            ]
           },
           "first_seen": "2026-08-28T19:25:43.098Z"
         },
@@ -218,12 +340,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reversi game made with Godot 4.6 and Fennel language.",
+            "homepage": null,
             "id": 1212920816,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-02T14:05:43Z",
+            "open_issues": 0,
             "owner": "ffunatsu",
             "repo": "GodotFennelReversi",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "fennel",
+              "godot",
+              "reversi"
+            ]
           },
           "first_seen": "2026-08-28T19:25:43.098Z"
         }
@@ -232,15 +363,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:25:43.098Z",
+    "last_updated": "2026-08-29T05:05:04.488Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Fennel",
+      "homepage": null,
       "id": 668288738,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2026-05-28T03:19:28Z",
+      "open_issues": 2,
       "owner": "adelarsq",
       "repo": "awesome-fennel",
-      "stars": 56
+      "stars": 56,
+      "topics": [
+        "awesome-list",
+        "fennel",
+        "fennel-lang",
+        "lua",
+        "neovim",
+        "sublime"
+      ]
     },
     "original_repository_sha": "56a0f8d850b66e3fbe5c04722502556f4dbfb9c6",
     "enhanced_repository": "enhansome/enhansome-fennel",
