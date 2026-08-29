@@ -8,7 +8,7 @@
 > Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system.
 
 * [Home Page](https://fennel-lang.org)
-* [Github Repository](https://github.com/bakpakin/Fennel) ⭐ 2,746 | 🐛 4 | 🌐 Fennel | 📅 2026-02-08
+* [Github Repository](https://github.com/bakpakin/Fennel) ⭐ 2,747 | 🐛 4 | 🌐 Fennel | 📅 2026-02-08
 * [Sourcehut Repository](https://sr.ht/~technomancy/fennel)
 
 ## Who are using?
