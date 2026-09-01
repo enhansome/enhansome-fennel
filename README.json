@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "nyoom-engineering",
             "repo": "nyoom.nvim",
-            "stars": 1630,
+            "stars": 1632,
             "topics": [
               "dotfiles",
               "lua",
@@ -147,7 +147,7 @@
                 "open_issues": 0,
                 "owner": "rktjmp",
                 "repo": "hotpot.nvim",
-                "stars": 400,
+                "stars": 401,
                 "topics": [
                   "carl-weathers",
                   "fennel",
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:04:39.588Z",
+    "last_updated": "2026-09-01T12:33:41.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Fennel",
