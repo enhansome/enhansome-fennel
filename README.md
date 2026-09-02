@@ -8,7 +8,7 @@
 > Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system.
 
 * [Home Page](https://fennel-lang.org)
-* [Github Repository](https://github.com/bakpakin/Fennel) ⭐ 2,747 | 🐛 4 | 🌐 Fennel | 📅 2026-02-08
+* [Github Repository](https://github.com/bakpakin/Fennel) ⭐ 2,748 | 🐛 4 | 🌐 Fennel | 📅 2026-02-08
 * [Sourcehut Repository](https://sr.ht/~technomancy/fennel)
 
 ## Who are using?
@@ -44,7 +44,7 @@
 
 * [aniseed](https://github.com/Olical/aniseed) ⭐ 645 | 🐛 7 | 🌐 Fennel | 📅 2025-06-12 - Sweeter Neovim with Fennel
 * [hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) ⭐ 401 | 🐛 0 | 🌐 Fennel | 📅 2026-07-29 - Fennel compiler plugin for Neovim
-* [nfnl](https://github.com/Olical/nfnl) ⭐ 363 | 🐛 8 | 🌐 Fennel | 📅 2026-08-14 - Enhance your Neovim with Fennel
+* [nfnl](https://github.com/Olical/nfnl) ⭐ 364 | 🐛 8 | 🌐 Fennel | 📅 2026-08-14 - Enhance your Neovim with Fennel
 * [tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) ⭐ 225 | 🐛 9 | 🌐 Fennel | 📅 2024-10-18 - Sweet Fennel integration for Neovim
 * [nvim-parinfer](https://github.com/gpanders/nvim-parinfer) ⭐ 223 | 🐛 3 | 🌐 Fennel | 📅 2025-10-01 - parinfer for Neovim
 * [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) ⭐ 26 | 🐛 0 | 🌐 Fennel | 📅 2023-12-26 - Fennel REPL that runs in Neovim
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
