@@ -8,7 +8,7 @@
 > Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system.
 
 * [Home Page](https://fennel-lang.org)
-* [Github Repository](https://github.com/bakpakin/Fennel) ⭐ 2,749 | 🐛 4 | 🌐 Fennel | 📅 2026-02-08
+* [Github Repository](https://github.com/bakpakin/Fennel) ⭐ 2,750 | 🐛 4 | 🌐 Fennel | 📅 2026-02-08
 * [Sourcehut Repository](https://sr.ht/~technomancy/fennel)
 
 ## Who are using?
@@ -17,7 +17,7 @@
 
 ## Articles
 
-* [Why Fennel?](https://github.com/nyoom-engineering/nyoom.nvim/blob/main/docs/faq.md#why-fennel) ⭐ 1,631 | 🐛 30 | 🌐 Fennel | 📅 2023-11-05
+* [Why Fennel?](https://github.com/nyoom-engineering/nyoom.nvim/blob/main/docs/faq.md#why-fennel) ⭐ 1,630 | 🐛 30 | 🌐 Fennel | 📅 2023-11-05
 * [Neovim Plugin Development introduction articles by Laurence Chen](https://github.com/humorless/fennel-fp-neovim) ⭐ 181 | 🐛 1 | 🌐 Clojure | 📅 2026-05-19
 * [How to write an awesome-wm config with Fennel](https://gist.github.com/christoph-frick/d3949076ffc8d23e9350d3ea3b6e00cb)
 * [Enhance your Neovim with Fennel](https://russtoku.github.io/posts/nfnl-experience.html)
@@ -43,7 +43,7 @@
 ### Neovim
 
 * [aniseed](https://github.com/Olical/aniseed) ⭐ 645 | 🐛 7 | 🌐 Fennel | 📅 2025-06-12 - Sweeter Neovim with Fennel
-* [hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) ⭐ 401 | 🐛 0 | 🌐 Fennel | 📅 2026-07-29 - Fennel compiler plugin for Neovim
+* [hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) ⭐ 400 | 🐛 0 | 🌐 Fennel | 📅 2026-07-29 - Fennel compiler plugin for Neovim
 * [nfnl](https://github.com/Olical/nfnl) ⭐ 364 | 🐛 8 | 🌐 Fennel | 📅 2026-08-14 - Enhance your Neovim with Fennel
 * [tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) ⭐ 225 | 🐛 9 | 🌐 Fennel | 📅 2024-10-18 - Sweet Fennel integration for Neovim
 * [nvim-parinfer](https://github.com/gpanders/nvim-parinfer) ⭐ 223 | 🐛 3 | 🌐 Fennel | 📅 2025-10-01 - parinfer for Neovim
@@ -73,4 +73,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
