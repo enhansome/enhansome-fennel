@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "nyoom-engineering",
             "repo": "nyoom.nvim",
-            "stars": 1632,
+            "stars": 1631,
             "topics": [
               "dotfiles",
               "lua",
@@ -121,7 +121,7 @@
                 "open_issues": 7,
                 "owner": "Olical",
                 "repo": "aniseed",
-                "stars": 645,
+                "stars": 644,
                 "topics": [
                   "fennel",
                   "lisp",
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:39:40.798Z",
+    "last_updated": "2026-09-16T12:35:36.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Fennel",
