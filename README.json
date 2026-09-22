@@ -172,10 +172,10 @@
                 "language": "Fennel",
                 "license": "Unlicense",
                 "last_commit": "2026-08-14T13:11:37Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "Olical",
                 "repo": "nfnl",
-                "stars": 364,
+                "stars": 365,
                 "topics": [
                   "fennel",
                   "lua",
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:06:10.264Z",
+    "last_updated": "2026-09-22T12:35:59.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Fennel",
