@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Why Fennel?",
-          "description": null,
+          "description": "nyoom-engineering/nyoom.nvim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -41,7 +41,7 @@
         {
           "node_type": "item",
           "title": "Neovim Plugin Development introduction articles by Laurence Chen",
-          "description": null,
+          "description": "humorless/fennel-fp-neovim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -274,7 +274,7 @@
             {
               "node_type": "item",
               "title": "sublime-text-fennel",
-              "description": null,
+              "description": "gbaptista/sublime-text-fennel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -311,7 +311,7 @@
         {
           "node_type": "item",
           "title": "Loria - Minetest subgame",
-          "description": null,
+          "description": "rzrn/loria",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -336,7 +336,7 @@
         {
           "node_type": "item",
           "title": "GodotFennelReversi - Reversi game made with Godot 4.6 and Fennel language",
-          "description": null,
+          "description": "ffunatsu/GodotFennelReversi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:50:50.202Z",
+    "last_updated": "2026-10-03T04:43:42.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Fennel",
