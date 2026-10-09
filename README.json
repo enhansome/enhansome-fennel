@@ -16,10 +16,10 @@
             "language": "Fennel",
             "license": "MIT",
             "last_commit": "2023-11-05T19:09:50Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "nyoom-engineering",
             "repo": "nyoom.nvim",
-            "stars": 1640,
+            "stars": 1641,
             "topics": [
               "dotfiles",
               "lua",
@@ -171,7 +171,7 @@
                 "id": 661685396,
                 "language": "Fennel",
                 "license": "Unlicense",
-                "last_commit": "2026-09-25T11:07:02Z",
+                "last_commit": "2026-10-09T09:39:00Z",
                 "open_issues": 9,
                 "owner": "Olical",
                 "repo": "nfnl",
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:33:50.717Z",
+    "last_updated": "2026-10-09T14:21:15.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Fennel",
