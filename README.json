@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "nyoom-engineering",
             "repo": "nyoom.nvim",
-            "stars": 1644,
+            "stars": 1645,
             "topics": [
               "dotfiles",
               "lua",
@@ -54,7 +54,7 @@
             "open_issues": 1,
             "owner": "humorless",
             "repo": "fennel-fp-neovim",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "fennel-lang",
               "functional-programming",
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:42:54.763Z",
+    "last_updated": "2026-10-13T15:01:48.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Fennel",
