@@ -175,7 +175,7 @@
                 "open_issues": 9,
                 "owner": "Olical",
                 "repo": "nfnl",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "fennel",
                   "lua",
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T12:51:44.118Z",
+    "last_updated": "2026-10-15T12:38:25.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Fennel",
