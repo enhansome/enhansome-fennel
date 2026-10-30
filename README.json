@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "nyoom-engineering",
             "repo": "nyoom.nvim",
-            "stars": 1643,
+            "stars": 1642,
             "topics": [
               "dotfiles",
               "lua",
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:15:11.712Z",
+    "last_updated": "2026-10-30T14:05:45.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Fennel",
