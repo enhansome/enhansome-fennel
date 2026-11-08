@@ -232,7 +232,7 @@
                 "open_issues": 3,
                 "owner": "gpanders",
                 "repo": "nvim-parinfer",
-                "stars": 223,
+                "stars": 224,
                 "topics": [
                   "fennel",
                   "lisp",
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T13:58:49.559Z",
+    "last_updated": "2026-11-08T14:16:18.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Fennel",
