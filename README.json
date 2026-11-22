@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T15:19:57.799Z",
+    "last_updated": "2026-11-22T15:15:34.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Fennel",
@@ -375,7 +375,7 @@
       "open_issues": 2,
       "owner": "adelarsq",
       "repo": "awesome-fennel",
-      "stars": 57,
+      "stars": 58,
       "topics": [
         "awesome-list",
         "fennel",
